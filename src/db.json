@@ -1,0 +1,14 @@
+{
+    "usernames": [
+      {
+        "email": "skrrachanon@gmail.com",
+        "password": "p@ssw0rd",
+        "privilege": 0
+      },
+      {
+        "email": "nataprom.rajsadolteeraparth@krungthai.com",
+        "password": "testing",
+        "privilege": 1
+      }
+    ]
+  }
